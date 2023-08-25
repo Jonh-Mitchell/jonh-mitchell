@@ -2,7 +2,7 @@
 - 👀 Estou focado em desenvolvimento Back-End
 - 📫 Sou de Maceió-AL/Brasil...
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitcxhell)](https://github.com/mitcxhell/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonh-mitchell)](https://github.com/jonh-mitchell/github-readme-stats)
 
 ## Em Aprendizado:
 <div style="display: inline_block"><br>
