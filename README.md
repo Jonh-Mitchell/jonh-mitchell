@@ -30,6 +30,13 @@
  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonh-mitchell&langs_count=8&layout=compact&theme=react"/>
 </div>
 
+
+<div align="center">
+
+  ![Snake animation](https://github.com/alexrla/alexrla/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 ## 
 <div> 
   <a href = "mailto:mitchell.brandao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
