@@ -26,7 +26,8 @@
 <hr />
 
 <div align="center">
- <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jonh-mitchell&show_icons=true&theme=react&include_all_commits=true&count_private=true"/><img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonh-mitchell&langs_count=8&layout=compact&theme=react"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jonh-mitchell&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonh-mitchell&langs_count=8&layout=compact&theme=react"/>
 </div>
 
 
